@@ -82,6 +82,26 @@ Similar to the previous two controllers, this controller handles actions relatin
 
 ### Middlewares
 
+Though there are a lot of middlewares that are used in this project, the three main ones are as follows:
+
+```php
+...
+protected $middlewareAliases = [
+    ...
+    'role' => \Spatie\Permission\Middlewares\RoleMiddleware::class,
+    'permission' => \Spatie\Permission\Middlewares\PermissionMiddleware::class,
+    'role_or_permission' => \Spatie\Permission\Middlewares\RoleOrPermissionMiddleware::class,
+];
+...
+```
+
+- **role**
+- **permission**
+- **role_or_permission**
+
+these middlewares handle the multirole and permision management capability of the project.
+
+
 ### Other Libraries
 
 ### Database
