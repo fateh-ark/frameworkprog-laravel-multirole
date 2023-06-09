@@ -56,6 +56,14 @@ php artisan serve
 
 ### Entities
 
+This project contains two entities/models, which as follows:
+
+- [**User**](/blog/app/Models/User.php)<br>
+This entity contains datas relating to authentication such as name, email, and password. This entity also has role attribute which used to differentiate role between users for different permissions.
+
+- [**Product**](/blog/app/Models/Product.php)<br>
+This entity contains the name and detail of a product.
+
 ### Controllers
 
 ### Middlewares
