@@ -18,7 +18,6 @@ Based on [Laravel 8 User Roles and Permissions Tutorial](https://www.itsolutions
   * [Entities](#entities)
   * [Controllers](#controllers)
   * [Middlewares](#middlewares)
-  * [Other Libraries](#other-libraries)
   * [Database](#database)
   * [Interfaces](#interfaces)
 
@@ -100,9 +99,6 @@ protected $middlewareAliases = [
 - **role_or_permission**
 
 these middlewares handle the multirole and permision management capability of the project.
-
-
-### Other Libraries
 
 ### Database
 
