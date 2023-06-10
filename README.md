@@ -51,6 +51,21 @@ php artisan serve
 
 ## Usage
 
+![mr1](/screenshots/mr%20(1).png)
+![mr2](/screenshots/mr%20(2).png)
+![mr3](/screenshots/mr%20(3).png)
+![mr4](/screenshots/mr%20(4).png)
+![mr5](/screenshots/mr%20(5).png)
+![mr6](/screenshots/mr%20(6).png)
+![mr7](/screenshots/mr%20(7).png)
+![mr8](/screenshots/mr%20(8).png)
+![mr9](/screenshots/mr%20(9).png)
+![mr10](/screenshots/mr%20(10).png)
+![mr11](/screenshots/mr%20(11).png)
+![mr12](/screenshots/mr%20(12).png)
+![mr13](/screenshots/mr%20(13).png)
+![mr14](/screenshots/mr%20(14).png)
+
 ## Breakdown
 
 ### Entities
