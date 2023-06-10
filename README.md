@@ -185,3 +185,27 @@ The permissions table is an intermediary between the **users table** and **permi
 | model_id      | bigint(20)   | The user's id number     |
 
 ### External Interfaces
+
+#### Data Access Interface
+This refers to the database mentioned earlier.
+
+#### User Interfaces
+These are the views located in the resources folder. The project includes multiple different views, including:
+
++ **Theme Layout**
+  - app.blade.php
++ **User Module**
+  - index.blade.php
+  - create.blade.php
+  - edit.blade.php
+  - show.blade.php
++ **Roles Module**
+  - index.blade.php
+  - create.blade.php
+  - edit.blade.php
+  - show.blade.php
++ **Product Module**
+  - index.blade.php
+  - create.blade.php
+  - edit.blade.php
+  - show.blade.php
